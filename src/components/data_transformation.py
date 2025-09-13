@@ -7,7 +7,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-from src.exception import Custom_exception
+
 from src.logger import logging
 import os
 from src.utils import save_object
